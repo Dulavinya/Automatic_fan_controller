@@ -6,11 +6,11 @@ The project is an automatic fan control system designed to minimize electricity 
 
 ## Features
 
-- ✅ Automatic On/Off: Detects human presence using PIR sensors to turn the fan on or off accordingly.
-- 🌡️ Smart Speed Control: Adjusts fan speed based on room temperature using a DHT11 sensor.
-- 🧠 Dual Mode Operation: Switch between automatic and manual modes for flexibility.
-- 🛠️ Custom PCB & Enclosure: Designed using Altium, SolidWorks, and LTSpice for simulation.
-- 🔌 Microcontroller-Based: Built around the ATmega328 for reliable embedded control.
+-  Automatic On/Off: Detects human presence using PIR sensors to turn the fan on or off accordingly.
+-  Smart Speed Control: Adjusts fan speed based on room temperature using a DHT11 sensor.
+-  Dual Mode Operation: Switch between automatic and manual modes for flexibility.
+-  Custom PCB & Enclosure: Designed using Altium, SolidWorks, and LTSpice for simulation.
+-  Microcontroller-Based: Built around the ATmega328 for reliable embedded control.
 
 ## Motivation
 
